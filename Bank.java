@@ -3,7 +3,7 @@ public class Bank{
 
 
 public static void main(String[] args){
-
+System.out.println(""main start ");
 int[] a=new int[]{10,20,30};
 
 
